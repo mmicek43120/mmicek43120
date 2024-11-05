@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me: mmicek43120@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I just finished my master's degree in data science.
+- ⚡ Fun fact: I just finished my master's degree in data science with a 4.0.
 
 <!---
 mmicek43120/mmicek43120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
